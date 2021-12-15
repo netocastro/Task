@@ -1,4 +1,4 @@
-package com.task.exercicio.config;
+/*package com.task.exercicio.config;
 
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 import org.springframework.context.annotation.Bean;
@@ -44,4 +44,4 @@ public class SwaggerConfig {
 
         return apiInfo;
     }
-}
+}*/
